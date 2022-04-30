@@ -1,0 +1,16 @@
+!<thin>
+//                                              120       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+step_wise.o/
+user_space.o/
+x86_pkg_temp_thermal.o/
+/0              0           0     0     644     16832     `
+/16             0           0     0     644     10668     `
+/33             0           0     0     644     2340      `
+/52             0           0     0     644     3468      `
+/69             0           0     0     644     2248      `
+/82             0           0     0     644     1652      `
+/96             0           0     0     644     6588      `

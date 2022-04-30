@@ -1,0 +1,20 @@
+!<thin>
+//                                              142       `
+mem.o/
+random.o/
+misc.o/
+toshiba.o/
+hw_random/core.o/
+hw_random/intel-rng.o/
+hw_random/amd-rng.o/
+hw_random/geode-rng.o/
+hw_random/via-rng.o/
+/0              0           0     0     644     7388      `
+/7              0           0     0     644     20892     `
+/17             0           0     0     644     4716      `
+/25             0           0     0     644     5308      `
+/36             0           0     0     644     10664     `
+/54             0           0     0     644     5452      `
+/77             0           0     0     644     3688      `
+/98             0           0     0     644     2560      `
+/121            0           0     0     644     3056      `

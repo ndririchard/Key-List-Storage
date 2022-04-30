@@ -1,0 +1,2 @@
+kernel/arch/x86/platform/iris/iris.ko
+kernel/arch/x86/platform/scx200/scx200.ko
