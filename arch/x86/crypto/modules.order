@@ -1,0 +1,7 @@
+kernel/arch/x86/crypto/glue_helper.ko
+kernel/arch/x86/crypto/aes-i586.ko
+kernel/arch/x86/crypto/twofish-i586.ko
+kernel/arch/x86/crypto/serpent-sse2-i586.ko
+kernel/arch/x86/crypto/aesni-intel.ko
+kernel/arch/x86/crypto/crc32c-intel.ko
+kernel/arch/x86/crypto/crc32-pclmul.ko

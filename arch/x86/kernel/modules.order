@@ -1,0 +1,4 @@
+kernel/arch/x86/kernel/cpu/mcheck/mce-inject.ko
+kernel/arch/x86/kernel/msr.ko
+kernel/arch/x86/kernel/cpuid.ko
+kernel/arch/x86/kernel/apm.ko
